@@ -7,12 +7,12 @@ The following are descriptions of and links for my projects to date.
 ### Project 1
 
 Project 1 write-up
-Link to project 1 [https://www.github.com/irwinwei73/GA-DSI-Project-01]
+Link to project 1 [https://www.github.com/irwinwei73/GA-DSI-Project-01](url)
 
 ### Project 2
 
 Project 2 write-up
-Link to project 2 [https://www.github.com/irwinwei73/GA-DSI-Project-02]
+Link to project 2 [https://www.github.com/irwinwei73/GA-DSI-Project-02](url)
 
 
 ```markdown
