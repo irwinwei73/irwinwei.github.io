@@ -1,12 +1,19 @@
-## Thank you for dropping by. Let me introduce myself.
+## Thank you for dropping by. My name is Irwin Wei.
 
-Test You can use the [editor on GitHub](https://github.com/irwinwei73/irwinwei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Add text here to introduce myself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The following are descriptions of and links for my projects to date.
 
-### Markdown
+### Project 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Project 1 write-up
+Link to project 1 [https://www.github.com/irwinwei73/GA-DSI-Project-01]
+
+### Project 2
+
+Project 2 write-up
+Link to project 2 [https://www.github.com/irwinwei73/GA-DSI-Project-02]
+
 
 ```markdown
 Syntax highlighted code block
