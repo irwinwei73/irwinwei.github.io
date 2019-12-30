@@ -8,7 +8,7 @@ The following are descriptions of and links for my projects to date.
 ##### Regression, Classification
 
 Project write-up<br>
-[Link to project 1](https://www.github.com/irwinwei73/GA-DSI-Capstone)
+[Link to capstone project](https://www.github.com/irwinwei73/GA-DSI-Capstone)
 
 
 #### Project 1 name
