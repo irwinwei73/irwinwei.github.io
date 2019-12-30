@@ -4,17 +4,38 @@ Add text here to introduce myself.
 
 The following are descriptions of and links for my projects to date.
 
-### Project 1
+#### Capstone Project name
+##### Regression, Classification
 
-Project 1 write-up
+Project write-up<br>
+[Link to project 1](https://www.github.com/irwinwei73/GA-DSI-Capstone)
 
+
+#### Project 1 name
+##### Regression
+
+Project write-up<br>
 [Link to project 1](https://www.github.com/irwinwei73/GA-DSI-Project-01)
 
-### Project 2
+#### Project 2 name
+##### Regression
 
-Project 2 write-up
-
+Project 2 write-up<br>
 [Link to project 2](https://www.github.com/irwinwei73/GA-DSI-Project-02)
+
+#### Project 3 name
+##### Natural Language Procession (NLP), Classification
+
+Project 3 write-up<br>
+[Link to project 3](https://www.github.com/irwinwei73/GA-DSI-Project-03)
+
+
+#### Project 4 name
+##### Classification
+
+Project 4 write-up<br>
+[Link to project 4](https://www.github.com/irwinwei73/GA-DSI-Project-04)
+
 
 
 ```markdown
@@ -36,11 +57,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/irwinwei73/irwinwei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
