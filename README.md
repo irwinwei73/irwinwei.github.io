@@ -1,4 +1,4 @@
-## Thank you for visiting my project portfolio.
+## Thank you for dropping by. Let me introduce myself.
 
 Test You can use the [editor on GitHub](https://github.com/irwinwei73/irwinwei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
