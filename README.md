@@ -24,7 +24,7 @@ Project 2 write-up<br>
 [Link to project 2](https://www.github.com/irwinwei73/GA-DSI-Project-02)
 
 #### Project 3 name
-##### Natural Language Procession (NLP), Classification
+##### Natural Language Processing (NLP), Classification
 
 Project 3 write-up<br>
 [Link to project 3](https://www.github.com/irwinwei73/GA-DSI-Project-03)
