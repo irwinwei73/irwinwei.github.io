@@ -19,8 +19,9 @@ Project 4 write-up
 
 <br> 
 #### Project 3: Classifying Text according to their Sub-Reddits
-##### *Natural Language Processing (NLP) | Classification |<a href="https://www.github.com/irwinwei73/GA-DSI-Project-03" target="_blank">> Link to project repository</a>*
-Project 3 write-up<br>
+##### *Web Scraping | Natural Language Processing | Classification |<a href="https://www.github.com/irwinwei73/GA-DSI-Project-03" target="_blank">> Link to project repository</a>*
+The objective was to build an NLP model to analyze the posts from 2 sub-reddits and determine which sub-reddit a given post belonged to. The sub-reddits selected were "Tales from the Customer" and "Tales from your Server".<br>
+Approximately 1,000 posts were scraped from each Sub-Reddit.
 
 <br> 
 #### Project 2: Predicting Housing Prices in Ames, Iowa (USA)
