@@ -11,7 +11,7 @@ The following are descriptions of and links for my projects to date, in **revers
 ##### Regression, Classification
 Project write-up<br>
 This is my write up. Hope you enjoyed it.
-<br><a href="https://www.github.com/irwinwei73/GA-DSI-Capstone" target="_blank">Link to project repository</a>
+<br><a href="https://www.github.com/irwinwei73/GA-DSI-Capstone" target="_blank">->Link to project repository</a>
 
 #### Project 4: Predicting the Presence of West Nile Virus
 ##### Classification
