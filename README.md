@@ -8,7 +8,7 @@ The following are my projects to date, in **reverse chronological order** (most 
 
 ### 2019 Projects
 #### Capstone Project: Predicting Whether Insurance Underwiting Gain will be Negative
-##### Regression, Classification
+##### Regression | Classification | Unsupervised
 Project write-up<br>
 This is my write up. Hope you enjoyed it.
 <br><a href="https://www.github.com/irwinwei73/GA-DSI-Capstone" target="_blank">>Link to project repository</a>
@@ -19,7 +19,7 @@ Project 4 write-up<br>
 <br><a href="https://www.github.com/irwinwei73/GA-DSI-Project-04" target="_blank">>Link to project repository</a>
 
 #### Project 3: Classifying Text according to their Sub-Reddits
-##### Natural Language Processing (NLP), Classification
+##### Natural Language Processing (NLP) | Classification
 Project 3 write-up<br>
 <br><a href="https://www.github.com/irwinwei73/GA-DSI-Project-03" target="_blank">>Link to project repository</a>
 
