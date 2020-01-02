@@ -8,7 +8,7 @@ The following are my projects to date, in **reverse chronological order** (most 
 
 ### 2019 Projects
 #### Capstone Project: Predicting Whether Insurance Underwiting Gain will be Negative
-##### Regression | Classification | Unsupervised
+##### Regression | Classification | Unsupervised <a href="https://www.github.com/irwinwei73/GA-DSI-Capstone" target="_blank">>Link to project repository</a>
 Project write-up<br>
 This is my write up. Hope you enjoyed it.
 <br><a href="https://www.github.com/irwinwei73/GA-DSI-Capstone" target="_blank">>Link to project repository</a>
