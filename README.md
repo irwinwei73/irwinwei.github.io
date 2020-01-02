@@ -4,7 +4,7 @@ You have reached my project portfolio page which continues to grow. I was most r
 
 <a style="font-weight:bold" href="https://www.linkedin.com/in/irwinwei" target="_blank">Learn more about me or get in touch via LinkedIn</a>
 
-The following are descriptions of and links for my projects to date, in **reverse chronological order**:
+The following are my projects to date, in **reverse chronological order** (most recent at the top):
 
 ### 2019 Projects
 #### Capstone Project: Predicting Whether Insurance Underwiting Gain will be Negative
