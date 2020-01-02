@@ -4,7 +4,7 @@ You have reached my project portfolio page which continues to grow. I was most r
 
 **[Learn more about me or get in touch via LinkedIn](https://www.linkedin.com/in/irwinwei){:target="_blank"}**
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+<b><a href="https://www.linkedin.com/in/irwinwei" target="_blank">Learn more about me or get in touch via LinkedIn</a></b>
 
 The following are descriptions of and links for my projects to date, in **reverse chronological order (most recent first)**-
 
