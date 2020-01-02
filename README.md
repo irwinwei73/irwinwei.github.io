@@ -1,6 +1,6 @@
 ## Thank you for dropping by. My name is Irwin Wei.
 
-Add text here to introduce myself.
+[My LinkedIN profile](linkedin.com/in/irwinwei)
 
 The following are descriptions of and links for my projects to date.
 
