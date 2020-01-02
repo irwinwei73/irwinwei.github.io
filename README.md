@@ -1,6 +1,8 @@
 ## Thank you for dropping by. My name is Irwin Wei.
 
-[My LinkedIN profile](linkedin.com/in/irwinwei)
+You have reached my project portfolio page which continues to grow. I was most recently working in General Insurance (claims) as a Loss Adjuster - we go by other names like "claims adjuster / surveyor / assessor". If you ever filed an insurance claim for your house, building, shop unit, warehouse, office, power plant, construction site, oil refinery, ship or aircraft, you would likely have met one of us. I have prior experience in consulting, software development and product development.
+
+[Learn more about me or get in touch via LinkedIn](https://www.linkedin.com/in/irwinwei)
 
 The following are descriptions of and links for my projects to date.
 
