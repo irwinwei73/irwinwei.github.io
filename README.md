@@ -5,8 +5,9 @@ You have reached my project portfolio page which continues to grow. I was most r
 
 The following are my projects to date, in **reverse chronological order** (most recent at the top).
 <br>
+<br>
 ### 2019 Projects
-<br> 
+<br>
 #### Capstone Project: Predicting Whether Insurance Underwiting Gain will be Negative
 ##### *Regression | Classification | Unsupervised |<a href="https://www.github.com/irwinwei73/GA-DSI-Capstone" target="_blank">> Link to project repository</a>*
 Project write-up
