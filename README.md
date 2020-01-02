@@ -10,7 +10,8 @@ The following are descriptions of and links for my projects to date, in **revers
 #### Capstone Project: Predicting Whether Insurance Underwiting Gain will be Negative
 ##### Regression, Classification
 Project write-up<br>
-<br><a href="https://www.github.com/irwinwei73/GA-DSI-Capstone" target="_blank">Link to coursework Capstone Project</a>
+This is my write up. Hope you enjoyed it.
+<a href="https://www.github.com/irwinwei73/GA-DSI-Capstone" target="_blank">Link to coursework Capstone Project</a>
 
 #### Project 4: Predicting the Presence of West Nile Virus
 ##### Classification
